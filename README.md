@@ -1,11 +1,15 @@
-# Octolamp
-A 3D printable, GitHub infused, WiFi enabled smart light powered by [WLED](https://kno.wled.ge/) and compatible with [Home Assistant](https://www.home-assistant.io/)
+# Octolamp Clock
+A 3D printable, GitHub infused, WiFi enabled smart light and clock
 
 <img src="images/IMG_9122.jpg" alt="Picture of a fully constructed Octolamp" width="600" />
 
+## Origin
+
+Based off the [Original Octolamp by Martin Woodward](https://github.com/martinwoodward/octolamp)!
+
 ### Components
 
-To build the Octolamp, you'll need access to a 3D printer, soldering iron and the following components:
+To build the Octolamp clock, you'll need access to a 3D printer, soldering iron and the following components:
 
 - [Black PLA Filament](https://amzn.to/3CTo54W) (for the base) - [[US](https://amzn.to/3CTo54W)] [[UK](https://amzn.to/3w7fCXX)]
 - [White PLA Filament](https://amzn.to/3GKObIz) (for the inner body and reflector) - [[US](https://amzn.to/3GKObIz)] [[UK](https://amzn.to/3XBNVSM)]
@@ -112,3 +116,5 @@ The fun part of this project is making it yourself, the lamp isn't officially so
 
 Instructions: https://github.com/martinwoodward/octolamp
 
+----
+[//]: # ( vim: set ts=4 sw=4 et cindent tw=80 ai si syn=markdown ft=markdown: )
